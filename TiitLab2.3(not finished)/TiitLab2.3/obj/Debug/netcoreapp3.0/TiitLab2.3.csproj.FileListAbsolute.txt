@@ -1,0 +1,15 @@
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\TiitLab2.3.exe
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\TiitLab2.3.deps.json
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\TiitLab2.3.runtimeconfig.json
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\TiitLab2.3.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\TiitLab2.3.dll
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\TiitLab2.3.pdb
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\obj\Debug\netcoreapp3.0\TiitLab2.3.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\obj\Debug\netcoreapp3.0\TiitLab2.3.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\obj\Debug\netcoreapp3.0\TiitLab2.3.dll
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\obj\Debug\netcoreapp3.0\TiitLab2.3.pdb
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\08
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\obj\Debug\netcoreapp3.0\TiitLab2.3.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\11
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\05
+C:\Users\Nikita\source\repos\TiitLab2.3\TiitLab2.3\bin\Debug\netcoreapp3.0\21
