@@ -1,0 +1,8 @@
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Nikita\source\repos\TiitLab1\src\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
