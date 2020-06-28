@@ -1,0 +1,9 @@
+fridge;samsung;2016.03.03;processing;
+kettle;samsung;2015.08.20;ready;
+smartphone;apple;2019.04.04;processing;
+oven;huawei;2018.06.02 ;processing;
+smartphone;meizu;2016.09.01;processing;
+headphones;huawei;2017.07.08;ready;
+kettle;LG;2017.08.23;ready;
+smartphone;xiaomi;2017.10.29;processing;
+kettle;samsung;2017.04.04;processing;

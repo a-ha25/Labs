@@ -1,0 +1,6 @@
+﻿  Lab10.cpp
+C:\Users\Nikita\source\repos\Lab10\Lab10\Lab10.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nikita\source\repos\Lab10\Lab10\Lab10.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nikita\source\repos\Lab10\Lab10\Lab10.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nikita\source\repos\Lab10\Lab10\Lab10.cpp(292,21): warning C4018: '<': signed/unsigned mismatch
+  Lab10.vcxproj -> C:\Users\Nikita\source\repos\Lab10\Debug\Lab10.exe
