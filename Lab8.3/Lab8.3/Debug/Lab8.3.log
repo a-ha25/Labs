@@ -1,0 +1,5 @@
+﻿  Lab8.3.cpp
+C:\Users\Nikita\source\repos\Lab8.3\Lab8.3\Lab8.3.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nikita\source\repos\Lab8.3\Lab8.3\Lab8.3.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nikita\source\repos\Lab8.3\Lab8.3\Lab8.3.cpp(253,19): warning C4018: '<': signed/unsigned mismatch
+  Lab8.3.vcxproj -> C:\Users\Nikita\source\repos\Lab8.3\Debug\Lab8.3.exe
