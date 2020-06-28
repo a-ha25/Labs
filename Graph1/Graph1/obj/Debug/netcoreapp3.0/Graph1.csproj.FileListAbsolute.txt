@@ -1,0 +1,16 @@
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Graph1.exe
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Graph1.deps.json
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Graph1.runtimeconfig.json
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Graph1.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Graph1.dll
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Graph1.pdb
+C:\Users\Nikita\source\repos\Graph1\Graph1\obj\Debug\netcoreapp3.0\Graph1.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\Graph1\Graph1\obj\Debug\netcoreapp3.0\Graph1.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\Graph1\Graph1\obj\Debug\netcoreapp3.0\Graph1.dll
+C:\Users\Nikita\source\repos\Graph1\Graph1\obj\Debug\netcoreapp3.0\Graph1.pdb
+C:\Users\Nikita\source\repos\Graph1\Graph1\obj\Debug\netcoreapp3.0\Graph1.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Input.txt
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Input1.txt
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Input2.txt
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Input3.txt
+C:\Users\Nikita\source\repos\Graph1\Graph1\bin\Debug\netcoreapp3.0\Input4.txt
